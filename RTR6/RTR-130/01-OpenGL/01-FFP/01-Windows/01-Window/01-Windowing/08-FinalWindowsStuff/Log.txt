@@ -1,0 +1,3 @@
+Program Started Successfully
+Initialization completed succefully
+Program Terminated Successfully

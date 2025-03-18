@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Window.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Window.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Window.rc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\04-Homework\\Window.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Build.bat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\AAB.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AAB.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 110,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window.rc",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc",
+              "RelativeDocumentMoniker": "Window.rc",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc",
+              "RelativeToolTip": "Window.rc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-27T04:31:25.22Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.C",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.C",
+              "RelativeDocumentMoniker": "Window.C",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.C",
+              "RelativeToolTip": "Window.C",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-27T04:31:13.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window.C",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\04-Homework\\Window.C",
+              "RelativeDocumentMoniker": "..\\04-Homework\\Window.C",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\04-Homework\\Window.C",
+              "RelativeToolTip": "..\\04-Homework\\Window.C",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-27T06:16:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.h",
+              "RelativeDocumentMoniker": "Window.h",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.h",
+              "RelativeToolTip": "Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-27T04:33:28.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.rc.txt",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc.txt",
+              "RelativeDocumentMoniker": "Window.rc.txt",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Window.rc.txt",
+              "RelativeToolTip": "Window.rc.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-27T04:31:25.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Build.bat.txt",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat.txt",
+              "RelativeDocumentMoniker": "Build.bat.txt",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat.txt",
+              "RelativeToolTip": "Build.bat.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-27T04:31:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Build.bat",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat",
+              "RelativeDocumentMoniker": "Build.bat",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\Build.bat",
+              "RelativeToolTip": "Build.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVDhPY6AI/P//n7G1s\u002Bc/lEsWYILSRANbaysUmgHkgl\u002B/fpGFQXqxuuDkyZMMEydOBNOEAIYBixYvZhARl2QIiohi4BeTYJg\u002BcxZUBjtAMeDSpUsM1rb2DEoKcgwnDx9kUFOQZ7BxcQeL4wIoBuzfv5\u002BBjZOTYe2aNQyRkZEM69auYWBjY2VYv3UHw4otuxl2HzzK8OPHD6hqCEAxwNHRkeHrt28MQcEhDMuXL2cIANLP33xgUPdNYdB3dGN4JajGcPrSVahqCEAxQE9Pj\u002BHE4UMMV\u002B89ZNC1tGW4dOcBw7kzZxn0lYQZLj/5zGCoLMrw9NU7qGoIwAjEhLhYhm9vXjDsWLOC4fe7lwxm\u002BloMl\u002B69ZdCV4WW4cO8Ng4meNlQlBLBAaRRgbm4OxiAA8vOPU2cZLj34xqCnpswgIyYFFocBDBegAw4ODgYXO2uGcB9XBh01JTAfGVCcFwYaMDAAABi9qE6NKlarAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-27T04:31:12.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AAB.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\AAB.ico",
+              "RelativeDocumentMoniker": "AAB.ico",
+              "ToolTip": "C:\\MyProjects\\RTR6\\RTR-130\\01-OpenGL\\01-FFP\\01-Windows\\01-Window\\01-Windowing\\05-Icon\\AAB.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "AAB.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-01-27T04:31:11.443Z",
+              "EditorCaption": " - Icon [256x256, 32 bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
