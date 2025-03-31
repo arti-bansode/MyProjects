@@ -1,0 +1,9 @@
+Program Started Successfully
+OPENGL INFORMATION
+********************
+OpenGL Vendor : Intel
+OpenGL Renderer : Intel(R) HD Graphics 5500
+OpenGL Version : 4.4.0 - Build 20.19.15.4835
+********************
+Initialization completed succefully
+Program Terminated Successfully!
